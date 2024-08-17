@@ -8,5 +8,5 @@
 ## About Me
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=twosun-8-git&show_icons=true&locale=en)
 
-### SNS
-![](https://skillicons.dev/icons?i=twitter)
+## SNS
+[![Xアイコン](https://skillicons.dev/icons?i=twitter)](https://x.com/twosun8x)
