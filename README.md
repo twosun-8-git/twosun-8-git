@@ -1,31 +1,19 @@
-## Hi there 👋
+## Hello Everyone 🐣
 
 こんにちは。**ツーさん** です。新しく Github アカウント作り直しました。
 私が使用する言語やスキルセットなどは下記をご参考ください。
 
-<table style="width: 100%;">
-<tr>
-<th style="text-align: left;">Tech Stack</th>
-<th style="text-align: left;">About Me</th>
-</tr>
-<tr>
-<td style="vertical-align: top; background-color: transparent;">
+### Teck Stack 🛠️
 
-![](https://skillicons.dev/icons?i=typescript,react,next,figma)
-![](https://skillicons.dev/icons?i=js,html,css)
+![](https://skillicons.dev/icons?i=typescript,react,next,js,html,css,figma)
 
-</td>
-<td style="vertical-align: top; background-color: transparent;">
+### Use Languages ✨
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=twosun-8-git&show_icons=true&locale=en)
 
-</td>
-</tr>
-</table>
-
 ---
 
-### SNS and Media
+### SNS and Media 📝
 
 <div style="display: flex; align-items: center;">
 <a href="https://x.com/twosun8x" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Xアイコン" width="48" height="48" /></a>
