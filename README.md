@@ -6,7 +6,7 @@
 ![](https://skillicons.dev/icons?i=typescript,react,next,js,html,css,figma)
 
 ### SNS
-![](https://skillicons.dev/icons?i=twitter)
+![https://x.com/twosun8x](https://skillicons.dev/icons?i=twitter)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=twosun-8-git&theme=calm)
 
