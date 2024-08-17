@@ -1,4 +1,4 @@
-## Hello Everyone 🐣
+# Hello Everyone 🐣
 
 こんにちは。**ツーさん** です。新しく Github アカウント作り直しました。使用する言語やスキルセットなどは下記をご参考ください。
 
@@ -10,7 +10,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-### SNS and Media 📝
+## SNS and Media 📝
 
 SNS は X（旧ツイッター）のみ。Zenn で技術記事書いてます。
 
@@ -19,6 +19,6 @@ SNS は X（旧ツイッター）のみ。Zenn で技術記事書いてます。
 <a href="https://zenn.dev/cocomina" target="_blank"><img src="https://github.com/twosun-8-git/twosun-8-git/blob/main/src/assets/img/zenn-logo-only.png" alt="Zenn ロゴ" width="48" height="48" /></a>
 </div>
 
-### Use Languages ✨
+## Use Languages ✨
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=twosun-8-git&show_icons=true&locale=en)
