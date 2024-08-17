@@ -12,6 +12,8 @@
 
 ### SNS and Media 📝
 
+SNS は X（旧ツイッター）のみ。Zenn で技術記事書いてます。
+
 <div style="display: flex; align-items: center;">
 <a href="https://x.com/twosun8x" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Xアイコン" width="48" height="48" /></a>
 <a href="https://zenn.dev/cocomina" target="_blank"><img src="https://github.com/twosun-8-git/twosun-8-git/blob/main/src/assets/img/zenn-logo-only.png" alt="Zenn ロゴ" width="48" height="48" /></a>
