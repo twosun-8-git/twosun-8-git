@@ -3,25 +3,24 @@
 こんにちは。**ツーさん** です。新しく Github アカウント作り直しました。
 私が使用する言語やスキルセットなどは下記をご参考ください。
 
-<table>
+<table style="width: 100%;">
 <tr>
-<th>Tech Stack</th>
-<th>About Me</th>
+<th style="text-align: left;">Tech Stack</th>
+<th style="text-align: left;">About Me</th>
 </tr>
 <tr>
-<td>
+<td style="vertical-align: top; background-color: transparent;">
 
 ![](https://skillicons.dev/icons?i=typescript,react,next,figma)
 ![](https://skillicons.dev/icons?i=js,html,css)
 
 </td>
-<td>
+<td style="vertical-align: top; background-color: transparent;">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=twosun-8-git&show_icons=true&locale=en)
 
 </td>
 </tr>
-
 </table>
 
 ---
