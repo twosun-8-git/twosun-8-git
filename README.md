@@ -1,10 +1,12 @@
 <!--
 ![Aditya Kanoi Banner](https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png)
 -->
-<h2>🙇‍♂️&nbsp;Hi, I'm twosun</h2>
+<h1>🙇‍♂️&nbsp;Hi, I'm twosun</h2>
 
 ツーさんと言います。Webデザイナー&フロントエンドエンジニアです。使用しているスキルなどは下記をご参考ください。<br />
-Zennで技術記事も発信してます。よければこちらもご覧ください。<a href="https://zenn.dev/cocomina" target="_blank">https://zenn.dev/cocomina</a>
+<a href="https://zenn.dev/cocomina" target="_blank">Zennで技術記事も発信してます。</a>よければこちらもご覧ください。
+
+## 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=twosun-8-git&show_icons=true&locale=en">
 
@@ -22,3 +24,4 @@ Zennで技術記事も発信してます。よければこちらもご覧くだ�
 
 ### 🌐&nbsp;Follow me
 <a href="https://x.com/twosun8x" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Xアイコン" width="28" height="28" /></a>
+
