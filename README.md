@@ -9,8 +9,11 @@ Webデザイナー&フロントエンドエンジニアやらせてもらって�
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=twosun-8-git&show_icons=true&locale=en">
 
-### 🛠&nbsp;Tech Stack
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=twosun-8-git&show_icons=true&include_all_commits=true">
 
+
+
+### 🛠&nbsp;Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=fflat&logo=react&logoColor=61DAFB)
