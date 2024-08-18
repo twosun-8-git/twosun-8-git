@@ -4,7 +4,7 @@
 <h1>🙇‍♂️&nbsp;Hi, I'm twosun</h2>
 
 ツーさんと言います。Webデザイナー&フロントエンドエンジニアです。使用しているスキルなどは下記をご参考ください。<br />
-<a href="https://zenn.dev/cocomina" target="_blank">Zennで技術記事も発信してます。</a>よければこちらもご覧ください。
+<a href="https://zenn.dev/cocomina" target="_blank">Zenn</a>で技術記事も発信してます。
 
 ## 
 
