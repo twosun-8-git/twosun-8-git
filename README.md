@@ -27,5 +27,5 @@ Webデザイナー&フロントエンドエンジニアやらせてもらって�
 &nbsp;
 <a href="https://zenn.dev/cocomina" target="_blank"><img src="https://github.com/twosun-8-git/twosun-8-git/blob/main/src/assets/img/zenn-logo-only.png" alt="Zennアイコン" width="34" height="34" /></a>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+coming+today.+I'm+glad+you+came+over.&vCenter=true&color=61dafb&font=Fira%20Code&size=14&font-weight=800&center=false&width=500&height=50&loop=3">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+coming+today.+I'm+glad+you+came+over.&vCenter=true&color=42b6d5&font=Fira%20Code&size=14&font-weight=800&center=false&width=500&height=50&loop=3">
 
