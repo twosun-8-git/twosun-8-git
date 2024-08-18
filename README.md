@@ -1,7 +1,7 @@
 <!--
 ![Aditya Kanoi Banner](https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png)
 -->
-<h1>🙇‍♂️&nbsp;Hi, I'm twosun</h2>
+## 🙇‍♂️&nbsp;Hi, I'm twosun
 
 ツーさんと言います。Webデザイナー&フロントエンドエンジニアです。使用しているスキルなどは下記をご参考ください。<br />
 <a href="https://zenn.dev/cocomina" target="_blank">Zenn</a>で技術記事も発信してます。
