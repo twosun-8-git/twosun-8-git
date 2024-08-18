@@ -9,7 +9,7 @@ Webデザイナー&フロントエンドエンジニアやらせてもらって�
 <a href="https://zenn.dev/cocomina" target="_blank">Zenn</a>で技術記事も発信してますのでよければご覧ください。
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=twosun-8-git&show_icons=true&locale=en&theme=react">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=twosun-8-git&show_icons=true&locale=en">
 
 ### 🛠&nbsp;Tech Stack
 
