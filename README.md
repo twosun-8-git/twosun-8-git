@@ -22,6 +22,6 @@ Webデザイナー&フロントエンドエンジニアやらせてもらって�
 
 
 ### 🌐&nbsp;Follow me
-<a href="https://x.com/twosun8x" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Xアイコン" width="30" height="30" /></a>
+<a href="https://x.com/twosun8x" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Xアイコン" width="34" height="34" /></a>
 &nbsp;
-<a href="https://zenn.dev/cocomina" target="_blank"><img src="https://github.com/twosun-8-git/twosun-8-git/blob/main/src/assets/img/zenn-logo-only.png" alt="Zennアイコン" width="30" height="30" /></a>
+<a href="https://zenn.dev/cocomina" target="_blank"><img src="https://github.com/twosun-8-git/twosun-8-git/blob/main/src/assets/img/zenn-logo-only.png" alt="Zennアイコン" width="34" height="34" /></a>
