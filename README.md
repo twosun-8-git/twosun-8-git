@@ -3,7 +3,7 @@
 -->
 ## 🙇‍♂️&nbsp;Hi, I'm twosun
 
-Webデザイナー&フロントエンドエンジニアやらせてもらってます。ツーさんと言います。<br />使用しているスキルなどは下記をご参考ください。<br />
+Webデザイナー&フロントエンドエンジニアやらせてもらってます。ツーさんと言います。使用している言語やスキルセットなどは下記をご参考ください。<br />
 <a href="https://zenn.dev/cocomina" target="_blank">Zenn</a>で技術記事も発信してますのでよければご覧ください。
 
 ###  
@@ -24,5 +24,5 @@ Webデザイナー&フロントエンドエンジニアやらせてもらって�
 
 ### 🌐&nbsp;Follow me
 <a href="https://x.com/twosun8x" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Xアイコン" width="28" height="28" /></a>
-<a href="https://x.com/twosun8x" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Xアイコン" width="28" height="28" /></a>
+<a href="https://zenn.dev/cocomina" target="_blank"><img src="https://github.com/twosun-8-git/twosun-8-git/blob/main/src/assets/img/zenn-logo-only.png" alt="Zennアイコン" width="28" height="28" /></a>
 
