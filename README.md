@@ -5,13 +5,7 @@
 Webデザイナー&フロントエンドエンジニアやらせてもらってます。ツーさんと言います。使用している言語やスキルセットなどは下記をご参考ください。
 <a href="https://zenn.dev/cocomina" target="_blank">Zenn</a>で技術記事も発信してますのでよければご覧ください。
 
-###  
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=twosun-8-git&show_icons=true&locale=en">
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=twosun-8-git&show_icons=true&include_all_commits=true">
-
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=twosun-8-git&show_icons=true&locale=en&theme=transparent">
 
 ### 🛠&nbsp;Tech Stack
 
@@ -28,3 +22,5 @@ Webデザイナー&フロントエンドエンジニアやらせてもらって�
 <a href="https://x.com/twosun8x" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Xアイコン" width="34" height="34" /></a>
 &nbsp;
 <a href="https://zenn.dev/cocomina" target="_blank"><img src="https://github.com/twosun-8-git/twosun-8-git/blob/main/src/assets/img/zenn-logo-only.png" alt="Zennアイコン" width="34" height="34" /></a>
+
+
