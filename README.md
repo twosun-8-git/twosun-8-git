@@ -6,7 +6,7 @@
 ツーさんと言います。Webデザイナー&フロントエンドエンジニアです。使用しているスキルなどは下記をご参考ください。<br />
 <a href="https://zenn.dev/cocomina" target="_blank">Zenn</a>で技術記事も発信してます。
 
-## 
+###  
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=twosun-8-git&show_icons=true&locale=en">
 
