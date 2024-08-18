@@ -6,7 +6,7 @@
 ## 🙇‍♂️&nbsp;Hi, I'm twosun
 
 Webデザイナー&フロントエンドエンジニアやらせてもらってます。ツーさんと言います。使用している言語やスキルセットなどは下記をご参考ください。
-<a href="https://zenn.dev/cocomina" target="_blank">Zenn</a>で技術記事も発信してますのでよければご覧ください。
+<a href="https://zenn.dev/cocomina" target="_blank">Zenn</a> で技術記事も発信してますのでよければご覧ください。
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=twosun-8-git&show_icons=true&locale=en">
